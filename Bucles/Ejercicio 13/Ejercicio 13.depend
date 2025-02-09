@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1739126223 source:c:\users\augus\desktop\c++\ejercicio semana 2\ejercicio 13\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<iomanip>
+	<locale>
+	<cmath>
+	<ctime>
+
